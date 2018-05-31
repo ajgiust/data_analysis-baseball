@@ -8,4 +8,4 @@ inferences as to which batting and pitching metrics are most correlated with sal
 This project is informational and does not require you to run any code. This project is meant to display the analysis I conducted on 
 the data I gathered.
 
-[Link to report](https://github.com/ajgiust/data_analysis-baseball)
+[Link to report](https://github.com/ajgiust/data_analysis-baseball/blob/master/Baseball%20Data%20Project.ipynb)
